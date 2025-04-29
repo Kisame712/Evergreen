@@ -9,7 +9,7 @@ public class Leaf : MonoBehaviour
 
     void Start()
     {
-        leafAudio = GetComponent<AudioSource>();    
+        leafAudio = GetComponent<AudioSource>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

@@ -11,5 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level0.unity
     guid: cc1a41f4af212a74784a5fb98c5a8cf6
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 4c5b65ff76cb90944972067deaa87b86
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: b6e457faab59a624d850e622d44a7701, type: 2}

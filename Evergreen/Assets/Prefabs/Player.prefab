@@ -239,7 +239,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 4
+  m_GravityScale: 3
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -266,7 +266,6 @@ MonoBehaviour:
   playerSpeed: 8
   jumpSpeed: 15
   playerAnim: {fileID: 8032615323998754322}
-  jumpEffect: {fileID: 0}
   jumpSound: {fileID: 8300000, guid: ea8d6206f3439ca46b529e0f9597a992, type: 3}
   jumpVolume: 0.7
 --- !u!114 &924847902726355304
